@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculator-with-C#/1.0.0": {
+        "runtime": {
+          "Calculator-with-C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator-with-C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
